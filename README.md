@@ -1,4 +1,4 @@
-# 🧠 AI Sidebar & Context Capture
+# 🧠 AI Sidebar
 
 ![Version](https://img.shields.io/badge/version-1.0-blue.svg) ![Chrome](https://img.shields.io/badge/Chrome-Extension-googlechrome.svg)
 
