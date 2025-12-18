@@ -1,6 +1,6 @@
 # 🧠 AI Sidebar & Context Capture
 
-![Version](https://img.shields.io/badge/version-1.0-blue.svg) ![Chrome](https://img.shields.io/badge/Chrome-Extension-googlechrome.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Version](https://img.shields.io/badge/version-1.0-blue.svg) ![Chrome](https://img.shields.io/badge/Chrome-Extension-googlechrome.svg)
 
 A premium, design-first Chrome Extension that brings the power of **ChatGPT, Gemini, and Claude** directly into your browsing experience. Featuring a "Glassmorphic" UI, smart context capturing, and a unified Omnibox navigation system.
 
@@ -57,6 +57,4 @@ Use the **Omnibox** dropdown at the top to switch between:
 Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](https://github.com/aryanksingh0/ai-sidebar-extension/issues).
 
-## 📄 License
 
-This project is [MIT](LICENSE) licensed.
